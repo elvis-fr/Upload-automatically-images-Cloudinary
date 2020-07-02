@@ -1,0 +1,10 @@
+{ 
+    "local" : "~ / www /" , 
+    "remote" : "/" , 
+    "host" : "ext-afdb.onebase.fr" , 
+    "port" : 21 , 
+    "user" : "afdb_9a7_export_images" , 
+    "pass" : "56041bdf " , 
+    " connexions " : " 2 " 
+    
+  }
